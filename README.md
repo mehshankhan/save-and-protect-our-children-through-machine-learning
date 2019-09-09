@@ -1,7 +1,9 @@
 # save-and-protect-our-children-through-machine-learning
 
-c3d model link
+c3d model link1: 
 https://drive.google.com/file/d/19NWziHWh1LgCcHU34geoKwYezAogv9fX/view?usp=sharing
+c3d model link2:
+https://mega.nz/#!diIBFITA!Wr2LaRURPp8GLVeDjJ9jgJcKIZ48rhJqEjYtbIaEXic
 
 Put your own videos in "dataset_videos" folder in the following hiearchy:
   ```
